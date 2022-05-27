@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    min-height: 1200px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    padding: 2rem;
+    background-color: #3B3B98;
+    box-shadow: 7px 15px 20px black;
+}
+.alamat{
+    color: #fff;
+}
+.nama {
+    font-weight: 700;
+    color: #f9d806;
+    text-shadow: 2px 2px 1px black;
+}
+
+.about h2 {
+    font-weight: 300;
+}
+.form-control1{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(90deg, #34495e 85%, #fff 40.1%);
+    border: none;
+}
+.form-control2{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(90deg, #34495e 65%, #fff 40.1%);
+    border: none;
+}
+.form-control3{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(90deg, #34495e 55%, #fff 40.1%);
+    border: none;
+}
+#about {
+    background-image: linear-gradient(90deg, #34495e 50%, #9980FA 40.1%);
+    box-shadow: 7px 15px 20px black;
+}
+.container h2 {
+    color: rgb(72, 143, 241);
+    font-weight: 1000;
+    text-shadow: 2px 2px 1px black;
+}
+.container h2 span{
+    color: #f9d806;
+}
+
+.container p {
+    color: #e2edff;
+}
+
+.col-6 {
+    padding-left: 125px;
+}
+
+.col-6 th {
+    color: #fff;
+    text-align: center;
+}
+
+.col-6 td {
+    color: #fff;
+}
+.col-6 ul li{
+    color: #fff;
+    font-weight: 900;
+}
+.form-control4{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(90deg, #34495e 85%, #fff 40.1%);
+    border: none;
+}
+.form-control5{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(90deg, #34495e 65%, #fff 40.1%);
+    border: none;
+}
+.form-control6{
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(90deg, #34495e 95%, #fff 40.1%);
+    border: none;
+}
